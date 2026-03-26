@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.main-title {
+    font-weight: 900;
+    color:rgb(41, 130, 29);
+    text-transform: uppercase;
+    letter-spacing: 0.50rem;
+    font-size: 25px;
+    margin: 4px 0px;
+}
+
+h1 {
+    font-weight: 900;
+    color:rgb(41, 130, 29);
+    text-transform: uppercase;
+    letter-spacing: 0.50rem;
+    font-size: 25px;
+    margin: 16px 0px 8px 0px;
+}
+
+h3 {
+    font-weight: 900;
+    color:rgb(255, 255, 255);
+    text-transform: uppercase;
+    letter-spacing: 0.45rem;
+    font-size: 16px;
+    margin: 16px 0px 8px 0px;
+    padding: 4px;
+    background-color: rgb(41, 130, 29);
+}
+
+p {
+    line-height: 1.25;
+    margin: 0px;
+}
+
+img {
+    width: 450px;
+    height: auto;
+}
+
+.recipes-img {
+    width: 350px;
+    height: auto;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    border-radius: 0.5rem;
+}
+
+.recipes {
+    font-weight: 600;
+    color: darkgrey;
+    list-style-type: upper-alpha;
+}
+
+.recipe-item a {
+    text-decoration: none;
+    text-transform: uppercase;
+    line-height: 1.5;
+    color: indianred;
+}
